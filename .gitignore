@@ -84,3 +84,6 @@ VSCode Files
 /.vscode/*
 BuildingEscape.code-workspace
 
+# kay add new ignores
+Plugins/Developer/RiderLink/
+.idea/
